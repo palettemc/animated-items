@@ -1,4 +1,4 @@
-<img src="https://cdn.modrinth.com/data/uBBepXuH/images/0bde4f5eef1dade8904db71472d6447a5936f83c.png" width="100%"/>
+<img src="https://cdn.modrinth.com/data/uBBepXuH/images/cc7d1dbb19f42d3588796f3371b6508ff93f2c87.png" width="100%"/>
 
 # ⭐️ Animated Items ⭐️
 
@@ -7,7 +7,7 @@ Animated Items is a resource pack that animates some textures of Minecraft items
 *Please note that this resource pack is not complete and is still adding more animations to items*
 
 ## 🗡️ Items with an Animation
-So far, here are the _vanilla_ items that have been animated (39 in total):
+So far, here are the _vanilla_ items that have been animated (43 in total):
 
 
 <details>
@@ -61,18 +61,35 @@ So far, here are the _vanilla_ items that have been animated (39 in total):
 - Bucket of Axolotl
 - End Crystal
 - Fire Charge
+- Netherite Ingot *(v1.4.2+)*
+
+**Version 1.5**
+- Resin Clump
+- Resin Brick
+- Wind Charge
+- Echo Shard
 
 *As more items arrive to Minecraft, more items will be animated*
 
 </details>
 
+### Tool Trims Mod
+
 There is also animation support for the [Tool Trims](https://modrinth.com/datapack/tool-trims) mod, with 160 textures being animated. Those animations are the iron, gold, diamond, and netherite swords with all of their possible combinations.
+
+_For the animation to work properly, ensure that you have both the Tool Trims resource pack and Animated Items resource pack turned on with Animated Items going above Tool Trims in the resource pack list._
 
 Here's an example of the Diamond Sword with 4 possible trimmings (in gold):
 
 <img src="https://cdn.modrinth.com/data/uBBepXuH/images/60c77747b6510a4d92b234b8bdc229c623d72e7e.gif" width="50%"/>
 
-*Order from left to right: Linear, Tracks, Charge, Frost*
+*Order of trimmings from left to right: Linear, Tracks, Charge, Frost*
+
+### Combat Expansion
+
+Animated Items comes with animation support for the [Combat Expansion](https://modrinth.com/datapack/cmbt-exp) data pack. The new swords from the data pack (katanas, claymores, and daggers) have been animated as well as the cutlass weapon.
+
+The animations are the same as the iron, gold, diamond, and netherite swords from the vanilla game.
 
 ## 📄 Examples
 Some Examples:
