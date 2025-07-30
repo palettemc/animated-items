@@ -7,7 +7,7 @@ Animated Items is a resource pack that animates some textures of Minecraft items
 *Please note that this resource pack is not complete and is still adding more animations to items*
 
 ## 🗡️ Items with an Animation
-So far, here are the _vanilla_ items that have been animated (44 in total):
+So far, here are the _vanilla_ items that have been animated (45 in total):
 
 
 <details>
