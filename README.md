@@ -4,8 +4,6 @@
 
 Animated Items is a resource pack that animates some textures of Minecraft items. This resource pack works with versions 1.18 and above.
 
-*Please note that this resource pack is not complete and is still adding more animations to items*
-
 ## 🗡️ Items with an Animation
 So far, here are the _vanilla_ items that have been animated (45 in total):
 
@@ -69,8 +67,7 @@ So far, here are the _vanilla_ items that have been animated (45 in total):
 - Wind Charge
 - Echo Shard
 - Spectral Arrow
-
-*As more items arrive to Minecraft, more items will be animated*
+- Copper Sword *(v1.5.2+)*
 
 </details>
 
