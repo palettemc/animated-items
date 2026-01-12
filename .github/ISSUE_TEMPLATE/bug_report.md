@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a broken or missing animation
 title: ''
-labels: visual bug
+labels: bug
 assignees: ''
 
 ---
