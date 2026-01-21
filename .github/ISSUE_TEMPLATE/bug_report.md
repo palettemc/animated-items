@@ -8,10 +8,13 @@ assignees: ''
 ---
 
 **Describe what the bug is**
-Information on what animation(s) is broken, and how. Also, include what version of the resource pack is affected.
+Information on which animation(s) are broken, and how.
+
+**Affected version(s)**
+Which version(s) of the resource pack are affected by this bug? Make sure to also include the Minecraft version in use.
 
 **Expected animation**
-Information on what the animation(s) is supposed to look like.
+Information on what the animation(s) are supposed to look like.
 
 **Screenshots and videos**
 Add images or videos to help us see what's wrong.
