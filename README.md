@@ -1,11 +1,13 @@
-<img src="https://cdn.modrinth.com/data/uBBepXuH/images/cc7d1dbb19f42d3588796f3371b6508ff93f2c87.png" width="100%"/>
+<img src="https://cdn.modrinth.com/data/uBBepXuH/images/804b5a1de7e7d5a4bbd5b8ec2c309fb402d18740.png" width="100%"/>
+
+<br>
 
 # ⭐️ Animated Items ⭐️
 
-Animated Items is a resource pack that animates some textures of Minecraft items. This resource pack works with versions 1.18 and above.
+Animated Items is a resource pack that animates many textures of Minecraft items! This resource pack works with versions 1.18 and above.
 
 ## 🗡️ Items with an Animation
-So far, here are the _vanilla_ items that have been animated (46 in total):
+So far, here are the _vanilla_ items that have been animated (71 in total):
 
 
 <details>
@@ -69,13 +71,24 @@ So far, here are the _vanilla_ items that have been animated (46 in total):
 - Spectral Arrow
 - Copper Sword *(v1.5.2+)*
 
+**Version 1.6**
+- All Gold Armor pieces
+- All Iron Armor pieces
+- All Copper Armor pieces
+- All Diamond Armor pieces
+- All Netherite Armor pieces
+- All Copper Lantern variants
+- Copper Torch
+
+*As more items are added to Minecraft, more items will be animated*
+
 </details>
 
 ### Tool Trims Mod
 
-There is also animation support for the [Tool Trims](https://modrinth.com/datapack/tool-trims) mod, with 160 textures being animated. Those animations are the iron, gold, diamond, and netherite swords with all of their possible combinations.
+There is also animation support for the [Tool Trims](https://modrinth.com/datapack/tool-trims) mod, with 220 textures being animated. Those animations are the iron, gold, diamond, and netherite swords with all of their possible combinations.
 
-_For the animation to work properly, ensure that you have both the Tool Trims resource pack and Animated Items resource pack turned on with Animated Items going above Tool Trims in the resource pack list._
+_For the animation to work properly, ensure that you have both the Tool Trims resource pack and Animated Items resource pack turned on, with Animated Items going above Tool Trims in the resource pack list._
 
 Here's an example of the Diamond Sword with 4 possible trimmings (in gold):
 
@@ -85,7 +98,7 @@ Here's an example of the Diamond Sword with 4 possible trimmings (in gold):
 
 ### Combat Expansion
 
-Animated Items comes with animation support for the [Combat Expansion](https://modrinth.com/datapack/cmbt-exp) data pack. The new swords from the data pack (katanas, claymores, and daggers) have been animated as well as the cutlass weapon.
+Animated Items comes with animation support for the [Combat Expansion](https://modrinth.com/datapack/cmbt-exp) data pack. The new swords from the data pack (katanas, claymores, and daggers) have been animated, as well as the cutlass weapon.
 
 The animations are the same as the iron, gold, diamond, and netherite swords from the vanilla game.
 
@@ -108,17 +121,11 @@ Here is a showcase video made by **Critters Mod Menagerie** on YouTube!
 [![nice vid that you should watch](https://img.youtube.com/vi/ysI-3P6U9a4/0.jpg)](https://www.youtube.com/watch?v=ysI-3P6U9a4)
 
 ## 📋 Requirements
-OptiFine is **not** required for this resource pack to work. Only versions of Minecraft starting from 1.6 and above, no versions before 1.6 will work since texture animations were added in Minecraft 1.6.
+OptiFine is **not** required for this resource pack to work. Only versions of Minecraft starting from 1.5 and above, no versions before 1.5 will work since texture animations were added in Minecraft 1.5.
 
-For versions 1.4 and above, the [Continuity](https://modrinth.com/mod/continuity) or [OptiFine](https://www.optifine.net/) mod is needed **only** for emissive textures.
-
-## 📃 Information on other Resource Packs
-If you are using resource packs that change the textures of any of the ones that this one changes (view the list called "Items with an Animation" above), they will **not** be compatible since one will overlap the other. So that means that it's either you use custom textures without animations, or animations without custom textures.
+For resource pack versions 1.4 and above, the [Continuity](https://modrinth.com/mod/continuity) or [OptiFine](https://www.optifine.net/) mod is needed **only** for emissive textures. If you do not want emissive textures, then neither of those mods is required.
 
 ## 🔴 Issues and Suggestions
-If there are any issues, or you would like to suggest an addition, please report/suggest them on the [GitHub repository](https://github.com/vrabb-gh/animated-items).
+If there are any issues or you would like to suggest an addition, please report/suggest them on the [GitHub repository](https://github.com/palettemc/animated-items).
 
-If you have any comments or questions, please ask/comment them on the [GitHub discussion](https://github.com/vrabb-gh/animated-items/discussions/5).
-
-## ⤵️ Download
-This resource pack can be downloaded on [Modrinth](https://modrinth.com/resourcepack/animated-items).
+If you have any comments or questions, please ask/comment on the [GitHub discussion](https://github.com/palettemc/animated-items/discussions/5).
